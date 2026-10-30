@@ -1,7 +1,7 @@
 """Latihan 2 - Sistem Data Mahasiswa (Dictionary dengan NIM sebagai key).
 
-Nama  : Fikri Yustiawan
-NIM   : 2225250075
+Nama  : Masya Bantani
+NIM   : 2225250113
 Kelas : 3-E
 """
 
